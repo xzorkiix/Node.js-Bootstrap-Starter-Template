@@ -16,17 +16,10 @@ http://nodebootstrapper.herokuapp.com
 
 ## Contents:
 
-<<<<<<< HEAD
 - layout.pug
 - header.pug
 - footer.pug
 - index.pug
-=======
-- layout.jade
-- header.jade
-- footer.jade
-- index.jade
->>>>>>> master
 
 ## Editing Pages:
 
